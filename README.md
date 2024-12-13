@@ -18,7 +18,7 @@ This repository contains implementations of both **lossy** and **lossless** imag
 
 ## Requirements
 
-- Python 3.8+
+- Python 3+
 - Libraries:
   - `numpy`
   - `opencv-python`
